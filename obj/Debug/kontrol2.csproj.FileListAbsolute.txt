@@ -1,0 +1,8 @@
+C:\Users\1\source\repos\kontrol2\kontrol2\obj\Debug\kontrol2.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\kontrol2\kontrol2\obj\Debug\kontrol2.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\kontrol2\kontrol2\bin\Debug\kontrol2.exe.config
+C:\Users\1\source\repos\kontrol2\kontrol2\bin\Debug\kontrol2.exe
+C:\Users\1\source\repos\kontrol2\kontrol2\bin\Debug\kontrol2.pdb
+C:\Users\1\source\repos\kontrol2\kontrol2\obj\Debug\kontrol2.exe
+C:\Users\1\source\repos\kontrol2\kontrol2\obj\Debug\kontrol2.pdb
+C:\Users\1\source\repos\kontrol2\kontrol2\obj\Debug\kontrol2.exe.config
